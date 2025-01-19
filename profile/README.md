@@ -29,7 +29,7 @@ Kube-OVN was originally built and sponsored by <a href="https://alauda.io">Alaud
 </p>
 
 <p style="text-align:center;" align="center">
-      <picture align="center">
-         <img align="center" src="https://www.alauda.io/hubfs/alauda_io_H_Blue.svg" alt="Alauda logo" width="25%"/>
-      </picture>
+    <a href="https://alauda.io">
+       <img align="center" src="https://www.alauda.io/hubfs/alauda_io_H_Blue.svg" alt="Alauda logo" width="25%"/>
+    </a>
 </p>
