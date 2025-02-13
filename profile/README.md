@@ -15,7 +15,7 @@ If you are looking for a powerful networking solution that excels in both contai
 The Kube-OVN community is waiting for your participation!
 
 - 💭 Chat with us at [Slack](https://communityinviter.com/apps/kube-ovn/kube-ovn)
-- 🐦 Follow us at [X](https://twitter.com/KubeOvn) and [Linkedin](https://www.linkedin.com/company/kube-ovn/)
+- 🐦 Follow us at [Linkedin](https://www.linkedin.com/company/kube-ovn/)
 
 ## License
 
